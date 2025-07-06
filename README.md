@@ -8,10 +8,13 @@ This project is a simple yet effective web application that classifies Iris flow
 ## 📁 Folder Structure
 
 iris_streamlit_app/
-│
+
 ├── app.py # Streamlit application script
+
 ├── iris_model.pkl # Trained Random Forest model
+
 ├── venv/ # (optional) Virtual environment folder
+
 └── README.md # Project documentation
 
 ---
